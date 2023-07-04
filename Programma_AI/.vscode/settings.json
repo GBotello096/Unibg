@@ -1,0 +1,28 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\geort\\Documents\\jar weka\\arpack_combined_all-0.1.jar",
+        "c:\\Users\\geort\\Documents\\jar weka\\bounce-0.18.jar",
+        "c:\\Users\\geort\\Documents\\jar weka\\core-1.1.jar",
+        "c:\\Users\\geort\\Documents\\jar weka\\java-cup-11b-2015.03.26.jar",
+        "c:\\Users\\geort\\Documents\\jar weka\\java-cup-11b-runtime-2015.03.26.jar",
+        "c:\\Users\\geort\\Documents\\jar weka\\jniloader-1.1.jar",
+        "c:\\Users\\geort\\Documents\\jar weka\\mtj-1.0.4.jar",
+        "c:\\Users\\geort\\Documents\\jar weka\\native_ref-java-1.1.jar",
+        "c:\\Users\\geort\\Documents\\jar weka\\native_system-java-1.1.jar",
+        "c:\\Users\\geort\\Documents\\jar weka\\netlib-java-1.1.jar",
+        "c:\\Users\\geort\\Documents\\jar weka\\netlib-native_ref-linux-armhf-1.1-natives.jar",
+        "c:\\Users\\geort\\Documents\\jar weka\\netlib-native_ref-linux-i686-1.1-natives.jar",
+        "c:\\Users\\geort\\Documents\\jar weka\\netlib-native_ref-linux-x86_64-1.1-natives.jar",
+        "c:\\Users\\geort\\Documents\\jar weka\\netlib-native_ref-osx-x86_64-1.1-natives.jar",
+        "c:\\Users\\geort\\Documents\\jar weka\\netlib-native_ref-win-i686-1.1-natives.jar",
+        "c:\\Users\\geort\\Documents\\jar weka\\netlib-native_ref-win-x86_64-1.1-natives.jar",
+        "c:\\Users\\geort\\Documents\\jar weka\\netlib-native_system-linux-armhf-1.1-natives.jar",
+        "c:\\Users\\geort\\Documents\\jar weka\\netlib-native_system-linux-i686-1.1-natives.jar",
+        "c:\\Users\\geort\\Documents\\jar weka\\netlib-native_system-linux-x86_64-1.1-natives.jar",
+        "c:\\Users\\geort\\Documents\\jar weka\\netlib-native_system-osx-x86_64-1.1-natives.jar",
+        "c:\\Users\\geort\\Documents\\jar weka\\netlib-native_system-win-i686-1.1-natives.jar",
+        "c:\\Users\\geort\\Documents\\jar weka\\netlib-native_system-win-x86_64-1.1-natives.jar",
+        "c:\\Users\\geort\\Documents\\jar weka\\weka-stable-3.8.0.jar"
+    ]
+}
